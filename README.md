@@ -6,7 +6,7 @@
 
 
 
- Atualmente estou cursando  1° semestre do ensino superior em Analise e Desenvolvimento de Sistemas e paralelo a isso estudo Python e Javascript na plataforma Udemy 
+ Atualmente estou cursando  1° semestre do Ensino Superior em Análise e Desenvolvimento de Sistemas e paralelo a isso estudo Python e Javascript na plataforma Udemy 
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
