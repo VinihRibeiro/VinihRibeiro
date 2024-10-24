@@ -6,7 +6,7 @@
 
 
 
- Atualmente estou cursando  3° semestre do Ensino Superior em Análise e Desenvolvimento de Sistemas e paralelo a isso estudo Python e Javascript
+ Atualmente estou cursando  4° semestre do Ensino Superior em Análise e Desenvolvimento de Sistemas e paralelo a isso estudo Python e Javascript
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
