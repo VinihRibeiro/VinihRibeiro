@@ -1,15 +1,70 @@
-### Olá! Eu sou o Vinicius Ribeiro 🙋🏾
+# 👨🏾‍💻 Vinicius Ribeiro #
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-ribeiro-880a74237/)
+**`Estudante`**
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=VinihRibeiro&show_icons=true&theme=tokyonight)
+Meu nome é Vinicius Eduardo Ribeiro dos Santos, tenho 20 anos e sou naturalizado na cidade de Rio Claro, interior de São Paulo. Atualmente, estou cursando 4° semestre em Análise e Desenvolvimento de Sistemas pelo Claretiano Centro Universitario.
+ Sou curioso e apaixonado por tecnologia!
+ 
+
+---
+
+### 💻 Linguagens e Tecnologias 
+
+<img 
+align ="left"
+alt="HTML"
+title="HTML"
+width="50px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img 
+align="left"
+alt="HTML"
+title="HTML"
+width="50px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+<img 
+align="left"
+alt="HTML"
+title="HTML"
+width="50px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img 
+align="left"
+alt="HTML"
+title="HTML"
+width="50px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<br>
+<br>
+<br>
+
+## 📈 Estatisticas
+
+<img 
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right:10px;"
+src="https://github-readme-stats.vercel.app/api?username=VinihRibeiro&include_all_commits=true&theme=github_dark&locale=pt-br"
+/>
 
 
-
- Atualmente estou cursando  4° semestre do Ensino Superior em Análise e Desenvolvimento de Sistemas e paralelo a isso estudo Python e Javascript
-
-<div style="display: inline_block"><br/>
- <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
- <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+<img 
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right:10px;"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinihRibeiro&theme=github_dark&size_weight=0.5&count_weight=0.5&custom_title=Tecnologias&langs_count=7"
+/>
