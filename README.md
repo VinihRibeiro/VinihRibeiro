@@ -2,7 +2,7 @@
 
 **`Front-end`**
 
-Meu nome é Vinicius Eduardo Ribeiro dos Santos, tenho 20 anos e sou naturalizado na cidade de Rio Claro, interior de São Paulo. Atualmente, estou cursando 4° semestre em Análise e Desenvolvimento de Sistemas pelo Claretiano Centro Universitario.
+Meu nome é Vinicius Eduardo Ribeiro dos Santos, tenho 20 anos e sou naturalizado na cidade de Rio Claro, interior de São Paulo. Atualmente, estou cursando 5° semestre em Análise e Desenvolvimento de Sistemas pelo Claretiano Centro Universitario.
  Sou curioso e apaixonado por tecnologia!
  
 
