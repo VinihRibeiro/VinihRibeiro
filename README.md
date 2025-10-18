@@ -1,8 +1,8 @@
-# 👨🏾‍💻 Vinicius Ribeiro #
+# Olá!! Eu sou Vinicius Ribeiro #
 
-**`Front-end`**
+**`Front-end`** **`Desenvolvedor Júnior`** **`Trainee`**
 
-Meu nome é Vinicius Eduardo Ribeiro dos Santos, tenho 20 anos e sou naturalizado na cidade de Rio Claro, interior de São Paulo. Atualmente, estou cursando 5° semestre em Análise e Desenvolvimento de Sistemas pelo Claretiano Centro Universitario.
+Meu nome é Vinicius Eduardo Ribeiro dos Santos, tenho 21 anos e sou naturalizado na cidade de Rio Claro, interior de São Paulo. Atualmente, sou formado em Analise e Desenvolvimento de Sistemase 
  Sou curioso e apaixonado por tecnologia!
  
 
@@ -60,11 +60,6 @@ style="padding-right:10px;"
 src="https://github-readme-stats.vercel.app/api?username=VinihRibeiro&include_all_commits=true&theme=github_dark&locale=pt-br"
 />
 
-
-<img 
-align="left"
-alt="GitHub Stats"
-height="200"
-style="padding-right:10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinihRibeiro&theme=github_dark&size_weight=0.5&count_weight=0.5&custom_title=Tecnologias&langs_count=7"
-/>
+<div>
+ <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+</div>
