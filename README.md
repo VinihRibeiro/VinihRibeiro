@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Analista de Qualidade (QA Tester) | QA Automation
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo na área de infraestrutura de TI, atualmente direcionando minha carreira para **Quality Assurance (QA)** e **Automação de Testes**
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo na área de Suporte de TI, atualmente direcionando minha carreira para **Quality Assurance (QA)** e **Automação de Testes**
  
 ---
 
