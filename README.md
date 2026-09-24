@@ -8,41 +8,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo na área de i
 
 ### 💻 Linguagens e Tecnologias 
 
-<img 
-align ="left"
-alt="HTML"
-title="HTML"
-width="50px"
-style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-
-<img 
-align="left"
-alt="HTML"
-title="HTML"
-width="50px"
-style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
-<img 
-align="left"
-alt="HTML"
-title="HTML"
-width="50px"
-style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-
-<img 
-align="left"
-alt="HTML"
-title="HTML"
-width="50px"
-style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+**Qualidade & Testes (Em foco):**
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
 
 ### 📈 Estatísticas do GitHub
 <div align="center">
@@ -51,6 +21,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 </div>
 
 ### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vinicius-ribeiro-880a74237/)
+[![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vinihribeiro2004@gmail.com)
 
