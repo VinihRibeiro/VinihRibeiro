@@ -14,12 +14,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo na área de i
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
 
-### 📈 Estatísticas do GitHub
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=VinihRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinihRibeiro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vinicius-ribeiro-880a74237/)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vinihribeiro2004@gmail.com)
