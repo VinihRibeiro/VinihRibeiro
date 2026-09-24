@@ -8,11 +8,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo na área de i
 
 ### 💻 Linguagens e Tecnologias 
 
-**Qualidade & Testes (Em foco):**
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
+**Qualidade & Testes (Em foco):**<br>
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)&nbsp;&nbsp;&nbsp;![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)&nbsp;&nbsp;&nbsp;![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square)&nbsp;&nbsp;&nbsp;![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vinicius-ribeiro-880a74237/)
