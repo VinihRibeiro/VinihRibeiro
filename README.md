@@ -1,8 +1,8 @@
-# Olá!! Eu sou Vinicius Ribeiro #
+# Olá! Eu sou o Vinicius Ribeiro 👋
 
-**`Front-end`** **`Desenvolvedor Júnior`** **`Trainee`**
+### 👨‍💻 Analista de Qualidade (QA Tester) | QA Automation
 
-Meu nome é Vinicius Eduardo Ribeiro dos Santos, tenho 21 anos e sou naturalizado na cidade de Rio Claro, interior de São Paulo. Atualmente, sou formado em Analise e Desenvolvimento de Sistemas e estou estudando tecnologias ligadas a area de Front-end com foco de me tornar Desenvolvedor!
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo na área de infraestrutura de TI, atualmente direcionando minha carreira para **Quality Assurance (QA)** e **Automação de Testes**
  
 ---
 
@@ -44,4 +44,13 @@ style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
+### 📈 Estatísticas do GitHub
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=VinihRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinihRibeiro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+### 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
+[![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:SEU_EMAIL_AQUI)
 
